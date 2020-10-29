@@ -1,0 +1,6 @@
+framework module Pods_stechTask2SNS {
+  umbrella header "Pods-stechTask2SNS-umbrella.h"
+
+  export *
+  module * { export * }
+}
